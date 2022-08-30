@@ -1,6 +1,7 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Vikas Suren**, I have created this tutorial to teach MERN Stack for free on YouTube.
+Hi! My name is **Vikas Suren**, I have tryed my best to create this page
+
 
 # Prerequisite
 
