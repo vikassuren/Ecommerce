@@ -1,6 +1,6 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Vikas Suren**, I have tryed my best to create this page
+Hi! My name is **Vikas Suren**, I have tried my best to create this website
 
 
 # Prerequisite
